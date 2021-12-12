@@ -90,7 +90,7 @@
         "IMGBB_API": {
             "description": "Add the api i.ibb.co site..==> i.ibb.co සයිට් එකට ලොග් වී ලබා ගන්නා api එක ඇතුලත් කරන්න",
             "required": true,
-            "value": "2290891d3a7b4fdfc2abffceb5a3bc92"
+            "value": "2feebde52da5c2a5d1f292462cb138d2"
          },
           "ZZ_PASSWORD": {
             "description": "මෙයට පස්ව්ර්ඩ් එක=raviya",
@@ -167,7 +167,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.  include {status} & {phoneinfo} & {sever} & {ratings} to add about chat & phone info & saver info & Your Ratings to your alive message",
             "required": false,
-            "value": "Hello I Am Alive\n{ratings}\n {status} \n {phoneinfo} \n {sever}"
+            "value": "https://i.ibb.co/qFVfNPm/Untitled.jpg"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -202,7 +202,7 @@
         "GAN_IMAGE": {
             "description": "Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://i.hizliresim.com/loUtAb.jpg"
+            "value": "https://i.ibb.co/qFVfNPm/Untitled.jpg"
         },
         "GROUP_MANAGE": {
             "description": "Type true if you need allow admin to use admin command",
