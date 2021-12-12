@@ -1,5 +1,5 @@
 {
-    "name": "✬Sew Queen✬",
+    "name": "✬NINION_BOT✬",
     "description": "World Best Whatsapp Bot",
     "logo": "https://i.ibb.co/qFVfNPm/Untitled.jpg",
     "keywords": ["sew", "sewqueen"],
@@ -93,8 +93,9 @@
             "value": "2290891d3a7b4fdfc2abffceb5a3bc92"
          },
           "ZZ_PASSWORD": {
-            "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එක=raviya",
+            "description": "මෙය වෙනස් කිරිමෙන් වලකින්න",
             "required": true
+            "value": "raviya"
          },
         "OWNER_SHIP": {
             "description": "බොට් අයිතිකරුගේ නාමය ඇතුලත් කරන්න ==> Input The Owner Name",
