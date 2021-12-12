@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/qFVfNPm/Untitled.jpg" width="100" >
+<img src="https://i.ibb.co/qFVfNPm/Untitled.jpg" width="500" >
 > scan  QR Code ✏
 <div align="left"><a href="https://replit.com/@nipuna21/NINIONBOT-1"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
 
