@@ -1,11 +1,11 @@
 {
     "name": "✬NINION_BOT✬",
-    "description": "World Best Whatsapp Bot",
+    "description": "nipuna rangana 2007",
     "logo": "https://i.ibb.co/qFVfNPm/Untitled.jpg",
-    "keywords": ["sew", "sewqueen"],
+    "keywords": ["ninion", "NINION"],
     "stack": "container",
     "env": {
-        "_SEW_QUEEN_SESSION": {
+        "_NINION_SESSION": {
             "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
             "required": true
         },
