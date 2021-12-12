@@ -165,7 +165,7 @@
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "Customizable Alive Message! Use => default, to change back.  include {status} & {phoneinfo} & {sever} & {ratings} to add about chat & phone info & saver info & Your Ratings to your alive message",
+            "description": "Customizable Alive Message! Use => default.",
             "required": false,
             "value": "https://i.ibb.co/qFVfNPm/Untitled.jpg"
         },
