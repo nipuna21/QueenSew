@@ -13,7 +13,7 @@ let Details = require('sew-queen-pro/sources/dc/Details');
 let { textRepeterSew, checkIsGroup, checkUsAdmin, checkImAdmin}= require('sew-queen-pro/sources/dc/cmd/admin');
 let { MessageType, MessageOptions, Mimetype, GroupSettingChange, ChatModification } = require('@ravindu01manoj/sew-queen-web');
 let A = '\n'.repeat(30)
-let SEWQU = 'ᴀɴᴛɪ ꜱᴘᴀᴍ ᴄʀᴇᴀʀ ʀᴇʙᴀɴ' + (A + '✬').repeat(15) + 'ᴀɴᴛɪ ꜱᴘᴀᴍ ᴄʟᴇᴀʀ ʀᴇʙᴀɴ\nᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴇᴡ ǫᴜᴇᴇɴ'
+let SEWQU = 'ᴀɴᴛɪ ꜱᴘᴀᴍ ᴄʀᴇᴀʀ ʀᴇʙᴀɴ' + (A + '✬').repeat(15) + 'ᴀɴᴛɪ ꜱᴘᴀᴍ ᴄʟᴇᴀʀ ʀᴇʙᴀɴ\nᴘᴏᴡᴇʀᴅ ʙʏ ninion_bot'
 
 SewQueen['IntroduceCMD']({pattern: 'antispam', fromMe: true, delownsewcmd: false, dontAdCommandList: true}, (async (message, input) => {
 var gp = await checkIsGroup(message)
@@ -23,7 +23,7 @@ var im = await checkImAdmin(message)
 await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
 }
         }
-                var msg = await message.reply('❉Safe Mode Activating....');
+                var msg = await message.reply('🔰Safe Mode Activating....');
                 await textRepeterSew(message,SEWQU,7)
   }));
 SewQueen['IntroduceCMD']({pattern: 'antispam', fromMe: false, delownsewcmd: false, dontAdCommandList: true}, (async (message, input) => {
@@ -34,6 +34,6 @@ var us = await checkUsAdmin(message)
 var im = await checkImAdmin(message)
              if (!im) return
 await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
-              var msg = await message.reply('❉Safe Mode Activating....');
+              var msg = await message.reply('🔰Safe Mode Activating....');
               await textRepeterSew(message,SEWQU,7)
   }));
