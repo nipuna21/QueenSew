@@ -124,7 +124,7 @@ await sendMessageDownloader(QueenSew, input, 'wiki')
 })); 
 
 SewQueen['IntroduceCMD']({
-        pattern: 'img ?(.*)',  // Google Image Download With 10+ images
+        pattern: 'img ?(.*)',  // Google Image Download With 5+ images
         fromMe: WorkType, 
         dontAdCommandList: true
         }, 
